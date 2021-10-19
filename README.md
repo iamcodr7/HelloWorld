@@ -1,2 +1,2 @@
 # HelloWorld
-#1stGitRepository
+Just Another Repository
